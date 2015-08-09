@@ -46,3 +46,7 @@ Select the appropriate item from the Tools > Programmer menu (e.g. “Arduino as
 Upload the sketch.
 
 	You should see “Done uploading.” in the Arduino software and no error messages. If you then connect an LED between pin 0 and ground, you should see it blink on and off. Note that you may need to disconnect the LED before uploading a new program.
+	
+	
+	
+	For images refer issues with this project  (present at right hand side top of the page)
